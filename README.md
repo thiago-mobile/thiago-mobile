@@ -1,18 +1,34 @@
 ### ¡Hola! 👋 soy Thiago Garcia De Carlo
 ---------------------------------------------------------------------
 
-Sobre mi:
+😄Sobre mí
 ---------------------------------------------------------------------
 Soy un apasionado creador de aplicaciones móviles con una mentalidad de aprendizaje continuo. Estoy emocionado por seguir creciendo y contribuyendo al mundo de desarrollo móvil.
-----------------------------------------------------------------------------------------------------------
-Here are some ieas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+🔭Mis proyectos mas relevantes
+----------------------------------------------------------------------
+- Daily Tracker: Aplicacion desarrollada con Flutter & Dart y Firebase como tesis final
+- Dinc App : Aplicacion movil actualmente desarrolada en conjunto con programadores utilizando varias tecnologias(Flutter,MySql,Nodejs,Js)
+
+⚡Habilidades y Conocimientos
+---------------------------------------------------------------------
+
+- Flutter & Dart: SharedPreferences, Providers
+- C#: EntityFramework, MVC, ASP.NET, LINQ, LAMBDA
+- Kotlin
+- SQL: Oracle, MySQL, SQL Server
+
+👯Colaborar
+----------------------------------------------------------------------
+Estoy buscando colaborar en diferentes proyectos relacionados con la creacion de aplicaciones moviles
+
+
+
+📫 Me podes contactar como
+----------------------------------------------------------------------
+-Email: thiagoagustingarcia@gmail.com
+-Linkedin: www.linkedin.com/in/thiago-garcía
+-Instagram: https://www.instagram.com/thiagogarciaaa_/?hl=en
+
 
