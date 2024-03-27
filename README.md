@@ -27,8 +27,11 @@ Estoy buscando colaborar en diferentes proyectos relacionados con la creacion de
 
 📫 Me podes contactar como
 ----------------------------------------------------------------------
--Email: thiagoagustingarcia@gmail.com
--Linkedin: www.linkedin.com/in/thiago-garcía
--Instagram: https://www.instagram.com/thiagogarciaaa_/?hl=en
+-✉️: thiagoagustingarcia@gmail.com
+
+-![image](https://github.com/thiago-mobile/thiago-mobile/assets/157446380/062c49b8-f8cb-4066-b48c-014df99c5778)
+: www.linkedin.com/in/thiago-garcía
+
+-💂: https://www.instagram.com/thiagogarciaaa_/?hl=en
 
 
