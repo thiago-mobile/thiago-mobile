@@ -1,9 +1,11 @@
-### Hi there 👋
+### ¡Hola! 👋 soy Thiago Garcia De Carlo
+---------------------------------------------------------------------
 
-
-**thiago-mobile/thiago-mobile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Sobre mi:
+---------------------------------------------------------------------
+Soy un apasionado creador de aplicaciones móviles con una mentalidad de aprendizaje continuo. Estoy emocionado por seguir creciendo y contribuyendo al mundo de desarrollo móvil.
+----------------------------------------------------------------------------------------------------------
+Here are some ieas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
