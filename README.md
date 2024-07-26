@@ -28,7 +28,7 @@ Estoy buscando colaborar en diferentes proyectos relacionados con la creacion de
 📫 Me podes contactar como
 ----------------------------------------------------------------------
 -![image](https://github.com/thiago-mobile/thiago-mobile/assets/157446380/77dd352b-91d8-42ec-a5f5-aad4b70de60a)
-: thiagoagustingarcia@gmail.com
+: tgarciadecarlo@gmail.com
 
 -![image](https://github.com/thiago-mobile/thiago-mobile/assets/157446380/062c49b8-f8cb-4066-b48c-014df99c5778)
 : www.linkedin.com/in/thiago-garcía
