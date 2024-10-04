@@ -21,7 +21,7 @@ Soy un apasionado creador de aplicaciones móviles con una mentalidad de aprendi
 
 👯Colaborar
 ----------------------------------------------------------------------
-Estoy buscando colaborar en diferentes proyectos relacionados con la creacion de aplicaciones moviles
+Estoy buscando colaborar en diferentes proyectos relacionados con la creacion o diseño de aplicaciones moviles
 
 
 
