@@ -1,31 +1,32 @@
-### ¡Hola! 👋 soy Thiago Garcia De Carlo
----------------------------------------------------------------------
+### Hello! 👋 I'm Thiago Garcia De Carlo
+-------------------------------------------------- -------------------
 
-😄Sobre mí
----------------------------------------------------------------------
-Soy un apasionado creador de aplicaciones móviles con una mentalidad de aprendizaje continuo. Estoy emocionado por seguir creciendo y contribuyendo al mundo de desarrollo móvil.
+👨‍💻About me
+-------------------------------------------------- -------------------
+I'm a passionate mobile app creator with a continuous learning mindset. I'm excited to continue growing and contributing to the world of mobile development.
 
 
-🔭Mis proyectos mas relevantes
-----------------------------------------------------------------------
-- Daily Tracker: Aplicacion desarrollada con Flutter & Dart y Firebase como tesis final
-- Dinc App : Aplicacion movil actualmente desarrolada en conjunto con programadores utilizando varias tecnologias(Flutter,MySql,Nodejs,Js)
+🔭My most relevant projects
+-------------------------------------------------- --------------------
+- Daily Tracker: Application developed with Flutter & Dart and Firebase as a final thesis
+- Chess app: Application developed with Flutter & Dart 
+- Dinc App: Mobile application currently developed in conjunction with programmers using various technologies (Flutter, MySql, Nodejs, Js)
 
-⚡Habilidades y Conocimientos
----------------------------------------------------------------------
+⚡Skills and Knowledge
+-------------------------------------------------- -------------------
 
 - Flutter & Dart: SharedPreferences, Providers
 - C#: EntityFramework, MVC, ASP.NET, LINQ, LAMBDA
 - Kotlin
 - SQL: Oracle, MySQL, SQL Server
 
-👯Colaborar
-----------------------------------------------------------------------
-Estoy buscando colaborar en diferentes proyectos relacionados con la creacion o diseño de aplicaciones moviles
+👥Collaborate
+-------------------------------------------------- --------------------
+I am looking to collaborate on different projects related to the creation or design of mobile applications.
 
 
 
-📫 Me podes contactar como
+📫 Can you contact me how
 ----------------------------------------------------------------------
 -![image](https://github.com/thiago-mobile/thiago-mobile/assets/157446380/77dd352b-91d8-42ec-a5f5-aad4b70de60a)
 : tgarciadecarlo@gmail.com
