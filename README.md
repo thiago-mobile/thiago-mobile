@@ -34,7 +34,4 @@ I am looking to collaborate on different projects related to the creation or des
 -![image](https://github.com/thiago-mobile/thiago-mobile/assets/157446380/062c49b8-f8cb-4066-b48c-014df99c5778)
 : www.linkedin.com/in/thiago-garcía
 
--![image](https://github.com/thiago-mobile/thiago-mobile/assets/157446380/8301418f-7b0e-4bff-80ad-5db0e6eb5fdb)
-: https://www.instagram.com/thiagogarciaaa_/?hl=en
-
 
