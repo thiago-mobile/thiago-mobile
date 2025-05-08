@@ -9,6 +9,7 @@ I'm a passionate mobile app creator with a continuous learning mindset. I'm exci
 🔭My most relevant projects
 -------------------------------------------------- --------------------
 - Daily Tracker: Application developed with Flutter & Dart and Firebase as a final thesis
+- ZenWake: Application programmed in Flutter using weather APIs and state management with providers, listeners, and change notifiers.
 - Chess app: Application developed with Flutter & Dart 
 - Dinc App: Mobile application currently developed in conjunction with programmers using various technologies (Flutter, MySql, Nodejs, Js)
 
