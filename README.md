@@ -18,7 +18,7 @@ I'm a passionate mobile app creator with a continuous learning mindset. I'm exci
 
 - Flutter & Dart: SharedPreferences, Providers
 - C#: EntityFramework, MVC, ASP.NET, LINQ, LAMBDA
-- Kotlin
+- Java & Kotlin
 - SQL: Oracle, MySQL, SQL Server
 
 👥Collaborate
